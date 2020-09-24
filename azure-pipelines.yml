@@ -11,7 +11,7 @@ variables:
   azureServiceConnectionId: 'db7bd6c6-2b03-474c-89cd-565a80507912'
   
   # Web app name
-  webAppName: 'v-edcaroPythonApp6'
+  webAppName: 'v-edcaroPythonApp7'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
